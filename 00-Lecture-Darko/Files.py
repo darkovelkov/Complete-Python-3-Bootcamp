@@ -18,8 +18,3 @@ Created on Sat Feb 24 20:29:19 2024
 
 with open('/home/user/file.txt', mode='r') as f:
     print(f.readlines())
-    s=[]
-    s.append(0)
-    s.append(0)
-    s.append(0)
-    print(s)
